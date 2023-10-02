@@ -17,6 +17,8 @@ function getSum(number1, number2){
   //option return statement
 }
 
+
+//prompt
 const name=prompt("what is your name?")
 //add a space between hello and  " to result in "Hello Melissa" rather than "HelloMelissa"
 function makestart(name){
