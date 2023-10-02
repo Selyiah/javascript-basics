@@ -56,3 +56,4 @@ const result = yournumber * rate
 console.log(`I have ${result} friends`)
 //at first i was confused at the alert because I embedded concactenation inside the brackets but after i removed it, it worked fine!
 alert ("Hey! You are popular if you have more than 5 friends")
+
